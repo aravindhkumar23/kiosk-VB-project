@@ -1,0 +1,48 @@
+C:\Users\Raza\Documents\Aamir\CompFinal (gr 11. comp)\FinalCompScience(working)\FinalCompScience(working)\bin\Debug\FinalCompScience(working).exe
+C:\Users\Raza\Documents\Aamir\CompFinal (gr 11. comp)\FinalCompScience(working)\FinalCompScience(working)\bin\Debug\FinalCompScience(working).pdb
+C:\Users\Raza\Documents\Aamir\CompFinal (gr 11. comp)\FinalCompScience(working)\FinalCompScience(working)\bin\Debug\FinalCompScience(working).xml
+C:\Users\Raza\Documents\Aamir\CompFinal (gr 11. comp)\FinalCompScience(working)\FinalCompScience(working)\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Raza\Documents\Aamir\CompFinal (gr 11. comp)\FinalCompScience(working)\FinalCompScience(working)\obj\Debug\FinalCompScience.frmAbout.resources
+C:\Users\Raza\Documents\Aamir\CompFinal (gr 11. comp)\FinalCompScience(working)\FinalCompScience(working)\obj\Debug\FinalCompScience.frmBill.resources
+C:\Users\Raza\Documents\Aamir\CompFinal (gr 11. comp)\FinalCompScience(working)\FinalCompScience(working)\obj\Debug\FinalCompScience.frmFood.resources
+C:\Users\Raza\Documents\Aamir\CompFinal (gr 11. comp)\FinalCompScience(working)\FinalCompScience(working)\obj\Debug\FinalCompScience.frmSelect.resources
+C:\Users\Raza\Documents\Aamir\CompFinal (gr 11. comp)\FinalCompScience(working)\FinalCompScience(working)\obj\Debug\FinalCompScience.frmSplash.resources
+C:\Users\Raza\Documents\Aamir\CompFinal (gr 11. comp)\FinalCompScience(working)\FinalCompScience(working)\obj\Debug\FinalCompScience.frmWelcome.resources
+C:\Users\Raza\Documents\Aamir\CompFinal (gr 11. comp)\FinalCompScience(working)\FinalCompScience(working)\obj\Debug\FinalCompScience.Resources.resources
+C:\Users\Raza\Documents\Aamir\CompFinal (gr 11. comp)\FinalCompScience(working)\FinalCompScience(working)\obj\Debug\FinalCompScience(working).vbproj.GenerateResource.Cache
+C:\Users\Raza\Documents\Aamir\CompFinal (gr 11. comp)\FinalCompScience(working)\FinalCompScience(working)\obj\Debug\FinalCompScience(working).exe
+C:\Users\Raza\Documents\Aamir\CompFinal (gr 11. comp)\FinalCompScience(working)\FinalCompScience(working)\obj\Debug\FinalCompScience(working).xml
+C:\Users\Raza\Documents\Aamir\CompFinal (gr 11. comp)\FinalCompScience(working)\FinalCompScience(working)\obj\Debug\FinalCompScience(working).pdb
+C:\Users\Raza\Documents\Aamir\CompFinal (gr 11. comp)\FinalCompScience(working)\FinalCompScience(working)\obj\Debug\FinalCompScience.frmReceipt.resources
+C:\Users\Raza\Documents\Aamir\Computer Project\CompFinal (gr 11. comp)\FinalCompScience(working)\FinalCompScience(working)\obj\Debug\FinalCompScience(working).exe
+C:\Users\Raza\Documents\Aamir\Computer Project\CompFinal (gr 11. comp)\FinalCompScience(working)\FinalCompScience(working)\obj\Debug\FinalCompScience(working).xml
+C:\Users\Raza\Documents\Aamir\Computer Project\CompFinal (gr 11. comp)\FinalCompScience(working)\FinalCompScience(working)\obj\Debug\FinalCompScience(working).pdb
+C:\Users\Raza\Documents\Aamir\Computer Project\CompFinal (gr 11. comp)\FinalCompScience(working)\FinalCompScience(working)\bin\Debug\FinalCompScience(working).exe
+C:\Users\Raza\Documents\Aamir\Computer Project\CompFinal (gr 11. comp)\FinalCompScience(working)\FinalCompScience(working)\bin\Debug\FinalCompScience(working).pdb
+C:\Users\Raza\Documents\Aamir\Computer Project\CompFinal (gr 11. comp)\FinalCompScience(working)\FinalCompScience(working)\bin\Debug\FinalCompScience(working).xml
+C:\Users\Raza\Documents\Aamir\Computer Project\CompFinal (gr 11. comp)\FinalCompScience(working)\FinalCompScience(working)\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Raza\Documents\Aamir\Computer Project\CompFinal (gr 11. comp)\FinalCompScience(working)\FinalCompScience(working)\obj\Debug\FinalCompScience.frmAbout.resources
+C:\Users\Raza\Documents\Aamir\Computer Project\CompFinal (gr 11. comp)\FinalCompScience(working)\FinalCompScience(working)\obj\Debug\FinalCompScience.frmBill.resources
+C:\Users\Raza\Documents\Aamir\Computer Project\CompFinal (gr 11. comp)\FinalCompScience(working)\FinalCompScience(working)\obj\Debug\FinalCompScience.frmFood.resources
+C:\Users\Raza\Documents\Aamir\Computer Project\CompFinal (gr 11. comp)\FinalCompScience(working)\FinalCompScience(working)\obj\Debug\FinalCompScience.frmReceipt.resources
+C:\Users\Raza\Documents\Aamir\Computer Project\CompFinal (gr 11. comp)\FinalCompScience(working)\FinalCompScience(working)\obj\Debug\FinalCompScience.frmSelect.resources
+C:\Users\Raza\Documents\Aamir\Computer Project\CompFinal (gr 11. comp)\FinalCompScience(working)\FinalCompScience(working)\obj\Debug\FinalCompScience.frmSplash.resources
+C:\Users\Raza\Documents\Aamir\Computer Project\CompFinal (gr 11. comp)\FinalCompScience(working)\FinalCompScience(working)\obj\Debug\FinalCompScience.frmWelcome.resources
+C:\Users\Raza\Documents\Aamir\Computer Project\CompFinal (gr 11. comp)\FinalCompScience(working)\FinalCompScience(working)\obj\Debug\FinalCompScience.Resources.resources
+C:\Users\Raza\Documents\Aamir\Computer Project\CompFinal (gr 11. comp)\FinalCompScience(working)\FinalCompScience(working)\obj\Debug\FinalCompScience(working).vbproj.GenerateResource.Cache
+C:\Users\Raza\Documents\Aamir\VB 2005 Projects\Computer Project\CompFinal (gr 11. comp)\FinalCompScience(working)\FinalCompScience(working)\obj\Debug\FinalCompScience(working).exe
+C:\Users\Raza\Documents\Aamir\VB 2005 Projects\Computer Project\CompFinal (gr 11. comp)\FinalCompScience(working)\FinalCompScience(working)\obj\Debug\FinalCompScience(working).xml
+C:\Users\Raza\Documents\Aamir\VB 2005 Projects\Computer Project\CompFinal (gr 11. comp)\FinalCompScience(working)\FinalCompScience(working)\obj\Debug\FinalCompScience(working).pdb
+C:\Users\Raza\Documents\Aamir\VB 2005 Projects\Computer Project\CompFinal (gr 11. comp)\FinalCompScience(working)\FinalCompScience(working)\bin\Debug\FinalCompScience(working).exe
+C:\Users\Raza\Documents\Aamir\VB 2005 Projects\Computer Project\CompFinal (gr 11. comp)\FinalCompScience(working)\FinalCompScience(working)\bin\Debug\FinalCompScience(working).pdb
+C:\Users\Raza\Documents\Aamir\VB 2005 Projects\Computer Project\CompFinal (gr 11. comp)\FinalCompScience(working)\FinalCompScience(working)\bin\Debug\FinalCompScience(working).xml
+C:\Users\Raza\Documents\Aamir\VB 2005 Projects\Computer Project\CompFinal (gr 11. comp)\FinalCompScience(working)\FinalCompScience(working)\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Raza\Documents\Aamir\VB 2005 Projects\Computer Project\CompFinal (gr 11. comp)\FinalCompScience(working)\FinalCompScience(working)\obj\Debug\FinalCompScience.frmAbout.resources
+C:\Users\Raza\Documents\Aamir\VB 2005 Projects\Computer Project\CompFinal (gr 11. comp)\FinalCompScience(working)\FinalCompScience(working)\obj\Debug\FinalCompScience.frmBill.resources
+C:\Users\Raza\Documents\Aamir\VB 2005 Projects\Computer Project\CompFinal (gr 11. comp)\FinalCompScience(working)\FinalCompScience(working)\obj\Debug\FinalCompScience.frmFood.resources
+C:\Users\Raza\Documents\Aamir\VB 2005 Projects\Computer Project\CompFinal (gr 11. comp)\FinalCompScience(working)\FinalCompScience(working)\obj\Debug\FinalCompScience.frmReceipt.resources
+C:\Users\Raza\Documents\Aamir\VB 2005 Projects\Computer Project\CompFinal (gr 11. comp)\FinalCompScience(working)\FinalCompScience(working)\obj\Debug\FinalCompScience.frmSelect.resources
+C:\Users\Raza\Documents\Aamir\VB 2005 Projects\Computer Project\CompFinal (gr 11. comp)\FinalCompScience(working)\FinalCompScience(working)\obj\Debug\FinalCompScience.frmSplash.resources
+C:\Users\Raza\Documents\Aamir\VB 2005 Projects\Computer Project\CompFinal (gr 11. comp)\FinalCompScience(working)\FinalCompScience(working)\obj\Debug\FinalCompScience.frmWelcome.resources
+C:\Users\Raza\Documents\Aamir\VB 2005 Projects\Computer Project\CompFinal (gr 11. comp)\FinalCompScience(working)\FinalCompScience(working)\obj\Debug\FinalCompScience.Resources.resources
+C:\Users\Raza\Documents\Aamir\VB 2005 Projects\Computer Project\CompFinal (gr 11. comp)\FinalCompScience(working)\FinalCompScience(working)\obj\Debug\FinalCompScience(working).vbproj.GenerateResource.Cache
